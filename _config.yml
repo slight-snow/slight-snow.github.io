@@ -15,12 +15,11 @@
 minimal_mistakes_skin: 'default' # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-<<<<<<< HEAD
 locale: 'en-US'
-title: 'Site Title'
+title: "✨ Glow Sky's Blog"
 title_separator: '-'
 subtitle: # site tagline that appears below site title in masthead
-name: 'Your Name'
+name: 'Glow Sky'
 description: 'An amazing website.'
 url: 'https://glow-sky.github.io'
 baseurl: # the subpath of your site, e.g. "/blog"
@@ -28,20 +27,6 @@ repository: # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo: # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title: # overrides the website title displayed in the masthead, use " " for no title
-=======
-locale                   : "en-US"
-title                    : "✨ Glow Sky's Blog"
-title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Glow Sky"
-description              : "An amazing website."
-url                      : "https://glow-sky.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
->>>>>>> 2e137bc1e171059ce5a55effa3c3e770868debd6
 # breadcrumbs            : false # true, false (default)
 words_per_minute: 200
 comments:
@@ -118,19 +103,11 @@ analytics:
 
 # Site Author
 author:
-<<<<<<< HEAD
-  name: 'Your Name'
+  name: 'Glow Sky'
   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio: 'I am an **amazing** person.'
-  location: 'Somewhere'
+  location: 'Seoul, Republic of Korea'
   email:
-=======
-  name             : "Glow Sky"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Seoul, Republic of Korea"
-  email            :
->>>>>>> 2e137bc1e171059ce5a55effa3c3e770868debd6
   links:
     - label: 'Email'
       icon: 'fas fa-fw fa-envelope-square'
